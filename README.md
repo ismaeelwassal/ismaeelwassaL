@@ -27,7 +27,7 @@
 
 ---
 
-###  My Competitive Programming Profiles
+### 🏆 My Competitive Programming Profiles
 
 <p align="center">
   <a href="https://codeforces.com/profile/ismaeelwassal"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Codeforces"/></a>
@@ -36,7 +36,7 @@
 
 ---
 
-###  Connect with Me
+### 🤝 Connect with Me
 
 <p align="center">
   <a href="mailto:esmailwassal456@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -48,12 +48,11 @@
 
 ---
 
-###  My Skills
+### 🚀 My Skills
 
 #### Programming Languages
 <p align="center">
   <a href="https://www.cplusplus.com/"><img src="https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white"/></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white"/></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white"/></a>
 </p>
 
@@ -72,7 +71,7 @@
 
 ---
 
-###  GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ismailwassal&theme=tokyonight&show_icons=true&count_private=true" alt="GitHub Stats" />
@@ -88,10 +87,11 @@
 
 ---
 
-###  GitHub Trophies
+### 🏅 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ismailwassal&theme=tokyonight&row=1&column=6" alt="Trophies" />
 </p>
+
 
 
