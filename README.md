@@ -19,7 +19,7 @@
 - :school: I am a `Junior` at [Faculty of Computers & Informatics](https://ci.tanta.edu.eg/) at [Tanta University].  
 - :technologist: I love using Software as a solution for every `Problem`.  
 - :computer: I am a competitive programmer at `Codeforces`, `Leetcode`.  
-- :student: I’m currently learning `Computer Science`.  
+- :student: I’m currently learning `Data Science & Machine Learning`.  
 - :nerd_face: Always `learning new things`.  
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().  
 
