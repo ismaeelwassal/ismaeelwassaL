@@ -10,9 +10,6 @@
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=IsmaeelWassal&label=Profile%20views&color=0047AB&style=plastic?" alt="IsmaeelWassal" height=25px, width=160px/> 
-  <a href="https://commits.top/egypt.html" target="_blank">
-    <img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="IsmaeelWassal" target="_blank" height=25px, width=250px/> 
-  </a>
 </p>
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=50px></picture> About Me
@@ -37,17 +34,34 @@
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
 
 <p align="center">
-  <a href="https://codeforces.com/profile/mohamedraafat1"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Codeforces"/></a>
-  <a href="https://leetcode.com/u/mo_raafat/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>  
+  <a href="https://codeforces.com/profile/ismaeelwassal"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Codeforces"/></a>
+  <a href="https://leetcode.com/u/wassal/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>  
 </p>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width=100px> </picture> Connect with Me
 
 <p align="center">
-  <a href="mailto:example@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://github.com/IsmaeelWassal"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://wa.me/0201503755070"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-  <a href="https://www.linkedin.com/in/ismaeel-wassal/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/ismaeelwassal" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ismail-wassal-8514012a8/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/wassal/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=plastic&logo=leetcode&logoColor=orange" alt="LeetCode"/>
+  </a>
+  <a href="https://codeforces.com/profile/ismaeelwassal" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-%23123456.svg?style=plastic&logo=codeforces&logoColor=blue" alt="Codeforces"/>
+  </a>
+  <a href="mailto:esmailwassal456@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://wa.me/201154868682" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://www.youtube.com/@_ismailwassal6436" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=plastic&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
 </p>
 
 ---
@@ -110,6 +124,7 @@
   &emsp;
   <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
 </p>
+
 
 
 
