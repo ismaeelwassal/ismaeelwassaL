@@ -113,16 +113,7 @@
   &emsp;
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
-  <a href="#"><img alt="JetBrains" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
-</p>
-
-### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width=50px> </picture> Operating Systems
-
-<p align="center">
-  &emsp;
-  <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+  <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white" /></a>
 </p>
 
 
