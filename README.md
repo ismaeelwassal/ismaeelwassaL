@@ -105,6 +105,8 @@
   <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
   <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
+  &emsp;
+  <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%230075A8.svg?style=plastic&logo=mysql&logoColor=white"></a>
 </p>
 
 ### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width=50px> </picture> IDEs
@@ -115,6 +117,7 @@
   &emsp;
   <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white" /></a>
 </p>
+
 
 
 
